@@ -1,0 +1,11 @@
+﻿Main.obj : error LNK2019: unresolved external symbol "public: void __cdecl Bank_Account::deleteAcc(void)" (?deleteAcc@Bank_Account@@QEAAXXZ) referenced in function "void __cdecl admin(void)" (?admin@@YAXXZ)
+Main.obj : error LNK2019: unresolved external symbol "public: void __cdecl Bank_Account::checkAcc(void)" (?checkAcc@Bank_Account@@QEAAXXZ) referenced in function "void __cdecl admin(void)" (?admin@@YAXXZ)
+Main.obj : error LNK2019: unresolved external symbol "public: void __cdecl Bank_Account::editAcc(void)" (?editAcc@Bank_Account@@QEAAXXZ) referenced in function "void __cdecl admin(void)" (?admin@@YAXXZ)
+Main.obj : error LNK2019: unresolved external symbol "public: void __cdecl Bank_Account::checkHistory(void)" (?checkHistory@Bank_Account@@QEAAXXZ) referenced in function "void __cdecl admin(void)" (?admin@@YAXXZ)
+Main.obj : error LNK2019: unresolved external symbol "public: void __cdecl Bank_Account::transfer(void)" (?transfer@Bank_Account@@QEAAXXZ) referenced in function "void __cdecl customer(void)" (?customer@@YAXXZ)
+Main.obj : error LNK2019: unresolved external symbol "public: void __cdecl Bank_Account::withdrawal(void)" (?withdrawal@Bank_Account@@QEAAXXZ) referenced in function "void __cdecl staff(void)" (?staff@@YAXXZ)
+Main.obj : error LNK2019: unresolved external symbol "public: void __cdecl Bank_Account::deposit(void)" (?deposit@Bank_Account@@QEAAXXZ) referenced in function "void __cdecl staff(void)" (?staff@@YAXXZ)
+Main.obj : error LNK2019: unresolved external symbol "public: void __cdecl Bank_Account::addEmployee(void)" (?addEmployee@Bank_Account@@QEAAXXZ) referenced in function "void __cdecl admin(void)" (?admin@@YAXXZ)
+Main.obj : error LNK2019: unresolved external symbol "public: void __cdecl Bank_Account::deleteEmployee(void)" (?deleteEmployee@Bank_Account@@QEAAXXZ) referenced in function "void __cdecl admin(void)" (?admin@@YAXXZ)
+Main.obj : error LNK2019: unresolved external symbol "public: void __cdecl Bank_Account::checkEmployee(void)" (?checkEmployee@Bank_Account@@QEAAXXZ) referenced in function "void __cdecl admin(void)" (?admin@@YAXXZ)
+C:\Users\tomah\source\repos\BankManagement\x64\Debug\BankManagement.exe : fatal error LNK1120: 10 unresolved externals
